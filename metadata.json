@@ -1,0 +1,8 @@
+{
+  "name": "Remix SUGA STUDIO",
+  "description": "AI Creative Suite \u0026 Super Admin Studio untuk pembuatan visual photorealistic, naskah animasi storyboard, Studio Affiliate UGC, Text-to-Speech, dan musik BGM.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
